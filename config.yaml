@@ -1,0 +1,6 @@
+optimizers:
+  - batch_gd
+  - sgd
+  - momentum
+  - adam
+  
